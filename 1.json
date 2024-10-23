@@ -4,5 +4,7 @@
     "desc": "test description",
     "ingredients": ["apple", "pear"],
     "quantities": {"apple": "3", "pear": "3"},
-    "steps": ["test1", "test2", "test3"]
+    "steps": ["test1", "test2", "test3"],
+    "img": "fried-rice.jpg",
+    "alt": "fried rice"
 }
