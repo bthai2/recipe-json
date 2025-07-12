@@ -1,9 +1,9 @@
 {
-    "id": 2,
-    "name": "test",
+    "id": 3,
+    "name": "test3",
     "desc": "test description",
-    "ingredients": ["apple", "pear"],
-    "quantities": {"apple": 8, "pear": "3"},
+    "ingredients": ["test ingredient", "pear"],
+    "quantities": {"apple": 7, "pear": "3"},
     "steps": ["test1", "test2", "test3"],
     "img": "fried-rice.jpg",
     "alt": "fried rice"
